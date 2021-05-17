@@ -17,7 +17,7 @@ Though the dashboard is about Personal Finance but it's not mine. **Finance_Data
 ## Dashboard
 * **Tool Tip** - Whenever someone hovers over a Bar Chart, Net Worth Card or a Line Chart, a tool tip appears to provide deeper insights to data.
 * **Slicer** - To select data yearwise and monthwise
-* ** Cards** - Show overall Income, Expense, Savings and Net Worth
+* **Cards** - Show overall Income, Expense, Savings and Net Worth
 * **Clustered Bar Chart** - To show category wise Expenditure and Savings
 * **Line Chart** - Shows Month over Month change in Income, Expense, Savings and also shows whether Savings target was achieved or not
 * **Detailed Statement Table** - A powerful table to show overall figures over time and category
